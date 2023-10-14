@@ -13,7 +13,7 @@ My experience in the technological world extends to backend and frontend develop
 
 - 🔭 I’m currently working to continue expanding my knowledge as a full-stack developer
 - 🌱 I’m currently learning: Node.js
-- 🚀 I’m looking to collaborate with people from all over the world with the desire to grow and continue learning about technologies.
+- 🚀 I’m looking to work and collaborate with people from all over the world with the desire to grow and continue learning about technologies.
 - 📫 How to reach me: carlos.solis2706@gmail.com
 - 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-solis-4a5516274/) 
 
