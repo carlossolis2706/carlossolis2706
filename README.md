@@ -28,7 +28,7 @@ My experience in the technological world extends to backend and frontend develop
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📚 Relevant education & Professional development
+<!--## 📚 Relevant education & Professional development
 
 1. Institution: University of El Salvador
    - Title: Software Engineering 
@@ -41,7 +41,7 @@ My experience in the technological world extends to backend and frontend develop
 3. Institution: American School San Salvador
    - Title: B2
    - Dates: 2014-2016
-
+-->
 ## 🏆 Certifications
 
   * [HTML & CSS | CERTIPORT](https://www.certiport.com/Portal/Pages/PrintTranscriptInfo.aspx?action=Cert&id=468&cvid=YTQdw02p56DTzzLS9ba8XQ==)
